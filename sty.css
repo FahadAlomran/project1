@@ -3,3 +3,6 @@ h1{
     display: grid;
     grid-template-columns: auto auto;
 }
+p{
+    color: blue;
+}
